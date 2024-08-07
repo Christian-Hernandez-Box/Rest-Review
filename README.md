@@ -45,4 +45,7 @@ This is an Express.js application that uses various middlewares including `expre
 ```javascript
 app.get("/", (req, res) => {
   res.render("home");
+
 });
+```
+<img width="1252" alt="Screenshot 2024-08-06 at 9 53 25 PM" src="https://github.com/user-attachments/assets/1f315bb6-5a27-46ff-bda5-14a4f8f337c8">
